@@ -7,7 +7,7 @@
 
 -   🌱 I’m currently learning: MicroPython, C++ (for Arduino)
 
--   📫 How to reach me: .
+-   📫 How to reach me: check profile
 
 -   ⚡ Fun fact: 15 yo, from Russia Federation, Surgut.
 
