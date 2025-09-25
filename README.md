@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ivan! 👋
+![](assets/scullphoto'.jpg)
 
-<!--
-**belikebigjohn/belikebigjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+-   🔭 I’m currently working on: new Telegram bot, that will make life better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🌱 I’m currently learning: MicroPython, C++ (for Arduino)
+
+-   📫 How to reach me: .
+
+-   ⚡ Fun fact: 15 yo, from Russia Federation, Surgut.
+
+## 🛠️ Tech Stack
+
+-   **Programming Languages:** Python
+
+---
+
+⭐️ From [belikebigjohn aka saturdayboy](https://github.com/belikebigjohn/belikebigjohn#)
