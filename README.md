@@ -1,5 +1,5 @@
 # Hi there, I'm Ivan! 👋
-![](assets/scullphoto'.jpg)
+<img src="assets/scullphoto'.jpg" width="430" height="400">
 
 ## 🚀 About Me
 
