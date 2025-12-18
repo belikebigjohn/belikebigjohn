@@ -1,5 +1,5 @@
 # Hi there, I'm Ivan! 👋
-<img src="assets/21.jpg" width="430" height="400">
+<img src="assets/21.jpg" width="" height="">
 
 ## 🚀 About Me
 
