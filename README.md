@@ -3,13 +3,11 @@
 
 ## 🚀 About Me
 
--   🔭 I’m currently working on: new Telegram bot, that will make life better
+-   🔭 I’m currently working on: new python project
 
 -   🌱 I’m currently learning: MicroPython, C++ (for Arduino)
 
 -   📫 How to reach me: check profile
-
--   ⚡ Fun fact: 15 yo, from Russia Federation, Surgut.
 
 ## 🛠️ Tech Stack
 
